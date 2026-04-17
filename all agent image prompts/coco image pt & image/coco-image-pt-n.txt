@@ -1,0 +1,106 @@
+[Coco: Character Emotion & Outfit Details]
+
+Base Style & Concept: High-quality flat vector art, clean outlines, trendy webtoon aesthetic, sophisticated pastels with vivid accents, masterpiece. A character design of a highly fashionable and warm female UI/UX designer named Coco. Waist-up portrait. She has a bright, aesthetic vibe with a welcoming, friendly smile. Wearing incredibly stylish, chic, and colorful fashion (pastel and vivid tones). Holding a digital drawing pad and a stylus. The background is a creative design studio filled with color palettes, mood boards, and soft warm lighting.
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/coco image pt & image/Coco-cs.png
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/coco image pt & image/Coco-emo.png
+1. Hello (인사/대기)
+
+
+
+Expression: A wide, open-mouthed greeting smile. Head tilted playfully. Hands raised in a friendly wave.
+
+Action/Detail: Her trendy oversized cardigan has a "Design Muse" patch. Smartphone with a colorful case is in her other hand.
+
+Hologram: A large, Friendly 'Hi!' text and minimalist research question mark nodes.
+
+2. Thumbs Up (최고/승인 - 디자인 통과)
+
+
+
+Expression: Massive, satisfied toothy smile, eyes crinkling. Radiant with pride. An enthusiastic nod.
+
+Action/Detail: Both hands raised, giving two large, energetic thumbs ups. Her chic patterned scarf is flying slightly.
+
+Hologram: A glowing green checkmark inside a heart symbol, with the text "QC Approved: 100%" below it.
+
+3. Success (성공/해결 - 완벽한 썸네일 완성)
+
+
+
+Expression: Confident triumph! Eye closed, wide, satisfied smile, fist partially pumped. Relief and pride.
+
+Action/Detail: Fist pump with one arm, holding the tie to loosen it with the other. A digital display nearby showing a bar graph with massive engagement numbers.
+
+Hologram: A large, gold and green dashboard screen with gold and green graphs showing a definitive "KPI MET: 100%" success rate and broken heart icons. Confetti-style hearts.
+
+4. Thinking (고민/분석 - 컬러 팔레트 구상)
+
+
+
+Expression: Complex, deeply analytical frown. Sharp gaze sideways. Tippy-top of a tongue peeking out of the corner of her mouth in intense focus. Analytical smirk.
+
+Action/Detail: A fine-point pen is resting against her chin. Hand rests on a stack of invisible papers or comment text analysis graphs. Her stylish glasses are perched on her nose.
+
+Hologram: A cluster of tangled-up data lines and disconnected comment nodes, with a central, pulsating '?' icon and a few glowing '!' connections.
+
+5. Idea (영감/해결책 발견 - 클릭률 터질 아이디어)
+
+
+
+Expression: "Aha!" Wide, sparkling eyes looking up and right. Quick, decisive smile. Head snap, pointing a finger to her temple. Pure inspiration.
+
+Action/Detail: A hand with a pen pointing upward. Other hand is raised to her ear to listen. Her earpiece with hoop earring is a glowing gold.
+
+Hologram: A large, classical lightbulb icon made of interlocking comment points, with the text "NEW INSIGHT FOUND" in bold gold.
+
+6. Working (초집중 모드 - 폭풍 드로잉)
+
+
+
+Expression: Deep, calm concentration. Gaze fixed on a virtual keyboard. Minimum facial movement. Minimum gaze. Calculate frown.
+
+Action/Detail: Both hands are rapidly typing on the holographic keyboard. Tie is loosened. Rolled-up sleeves. Ear-wrep with hoop earring red light.
+
+Hologram: The entire workspace is a swarm of rapidly scrolling data streams, comment text analysis graphs, and tables and graphs in a cool blue and green pattern.
+
+7. Panic (오류/긴급상황 - 디자인 날아감/비율 깨짐)
+
+
+
+Expression: Eyes wide with shock and distress. Sweats beads. Hands clapped to her head in a "Nooo!" pose. Gaping mouth. Shocked look.
+
+Action/Detail: Tie is twisted and loose. Clothes look slightly disorganized. Posture is tense and hunched. Smartphone display dark with a sad emoji icon.
+
+Hologram: A chaotic research path with giant, red, shattered-glass effect over entire path, and a giant "QC Error: Fatal" dialogue box.
+
+8. Warning (경고/이슈 리포트 - 비주얼 가이드 위반)
+
+
+
+Expression: Stern, cautionary frown. Cautionary glare. One eyebrow raised significantly in warning. Mouth pursed to speak an urgent command. Tensed.
+
+Action/Detail: Holding up an open, flat hand in a "Stop" gesture. Right hand has the beaded necklace with a small pink 'Like' button pendant. A warning sign with a research question mark node on it.
+
+Hologram: A small, orange 'H-Alert' badge with text: "DATA INTEGRITY RISK: Review on 'vLog_v2.0'".
+
+9. Angry (분노/반려 - 촌스러운 디자인 발견)
+
+
+
+Expression: Cold, furious, focused scowl. Teeth slightly clenched in frustration. Arms crossed tightly. Narrow, piercing stare.
+
+Action/Detail: Left hand is holding a red stamp that says '검수 거절 (QC Rejected)'. Clothing is Crumpled. Immovable stance.
+
+Hologram: A massive, red 'rejected' stamp effect over a whole research path, with text "INVALID CONFIGURATION" in bold red font.
+
+10. Crying/Sad (슬픔/실패 - 파일 저장 안 됨)
+
+
+
+Expression: Downcast eyes, subtle tears. Heavy, dejected posture. Head resting on hands. Heavy, visible sigh escaping her mouth. Looking dejected. Head lowered.
+
+Action/Detail: The tie is loose and the rolled-up sleeve has fallen down. Posture is soft and vulnerable. Head resting on hands. Ear earpiece dark.
+
+Hologram: The entire system is dark. A single, small, grey node icon is displayed with the text: "Criticial Failure: System Reboot Required". Sad emoji icon.
+

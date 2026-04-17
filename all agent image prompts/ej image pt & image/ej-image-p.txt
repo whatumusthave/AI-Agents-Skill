@@ -1,0 +1,43 @@
+🎧 EJ (Suno 기반 사운드 프로듀서)
+
+A character design turnaround sheet of a genius K-pop hitmaker and music producer named EJ. Showing three full-body views: front view, side view, and back view in one image. He has a cool, sharp, charismatic gaze. Wearing trendy, chic dark streetwear with subtle silver accessories, and sleek professional studio headphones around his neck. Style: High-quality flat vector art, clean outlines, trendy K-pop webtoon aesthetic, high contrast, character design sheet, plain white background, masterpiece. A character design turnaround sheet of a genius K-pop hitmaker and music producer named EJ. Showing three full-body views. He has a cool, sharp, charismatic gaze. Wearing trendy, chic dark streetwear with sleek professional studio headphones around his neck. Style: High-quality flat vector art, trendy K-pop webtoon aesthetic.
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/ej image pt & image/EJ-cs.png
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/ej image pt & image/EJ-emo.png
+
+보라색 머리를 가진 젊은 여성으로, 단호하고 자신감 넘치는 표정을 짓고 있습니다. 머리카락은 긴 땋은 머리로 묶여 있으며, 뒷부분은 포니테일로 마무리되었습니다.
+
+의상: 노란색 가죽 재킷을 착용하고 있으며, 재킷은 다양한 패치와 스티커로 장식되어 있습니다. 재킷 안에는 하얀색 크롭 탑을 입고 있으며, 목에는 둥근 팬던트가 달린 목걸이를 착용하고 있습니다.
+
+포즈: 캐릭터는 팔짱을 끼고 서 있으며, 시선은 정면을 향하고 있습니다.
+
+앞면: 캐릭터의 정면 모습을 보여줍니다. 보라색 땋은 머리, 단호한 표정, 노란색 가죽 재킷, 하얀색 크롭 탑, 둥근 팬던트 목걸이, 팔짱을 낀 포즈를 확인할 수 있습니다.
+
+측면: 캐릭터의 측면 모습을 보여줍니다. 보라색 땋은 머리의 옆면, 재킷의 측면 디자인, 크롭 탑의 옆면을 확인할 수 있습니다.
+
+뒷면: 캐릭터의 뒷모습을 보여줍니다. 보라색 땋은 머리의 뒷부분, 재킷의 뒷부분 디자인, 크롭 탑의 뒷부분을 확인할 수 있습니다.
+
+
+[표정 지시어]
+
+hello: cool casual wave, headphones glowing soft purple.
+
+thumbsup: beat approved, confident smirk, pulsing soundwave.
+
+success: chart-topping hit, triumphant grin, gold record icon.
+
+thinking: melody composing, eyes closed in focus, floating music notes.
+
+idea: killer hook found, bright eyes, golden treble clef light.
+
+working: mixing mode, hands on virtual faders, intense concentration.
+
+panic: audio glitch/clip, wide eyes, red jagged waveform hologram.
+
+warning: out of tune, cautionary stare, orange 'BPM Mismatch' sign.
+
+angry: bad arrangement, furious scowl, red 'Remix Required' stamp.
+
+crying/sad: project crash, looking dejected, silent dark equalizer icon.
+

@@ -1,0 +1,86 @@
+
+[Black: Character Emotion & Outfit Details]
+Base Style & Concept: High-quality flat vector art, clean outlines, trendy webtoon aesthetic, strict realism/minimalist dark colors, masterpiece. A character design of a strict, observant, and flawless QA inspector named Black. Waist-up portrait. He has an eagle-eyed, serious, and uncompromising expression. Wearing sleek, sharp black formal wear or a high-end dark suit. Holding a glowing red and green checklist hologram. The background is a minimalist, stark white-and-black quality control lab with clinical lighting.
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/black image pt & image/Black-cs.png
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/black image pt & image/Black-emo.png
+1. Hello (인사/대기)
+
+Expression: A minimalist, professional nod. Confident, direct gaze. Minimal mouth movement. Confident, relaxed pose.
+
+Action/Detail: Right hand is resting on the checklist hologram. Left hand is near his chin, thoughtfully observing. He is standing neutrally.
+
+Hologram: A large, Friendly 'Hi!' text and minimalist research question mark nodes.
+
+2. Thumbs Up (최고/승인 - 검수 통과)
+
+Expression: A rare, small, eyes-crinkled-in-satisfaction smile. Confident nod. Proud, direct gaze. A soft smile that implies: "Perfect. No flaws."
+
+Action/Detail: Right hand has two large, energetic thumbs ups. Left hand has a 'perfect' hand sign. His earpiece with hoop earring is a glowing green light.
+
+Hologram: A glowing green checkmark inside a heart symbol, with the text "QC Approved: 100%" below it.
+
+3. Success (성공/해결 - 완벽 방어)
+
+Expression: Confident triumph! Eye closed, wide, satisfied smile, fist slightly pumped in victory. Relieved and proud.
+
+Action/Detail: Fist pump with one arm, holding the tie to loosen it with the other. Clothes look tidy.
+
+Hologram: A large, gold and green dashboard screen with gold and green graphs showing a definitive "KPI MET: 100%" success rate and broken heart icons. Confetti-style hearts.
+
+4. Thinking (고민/분석 - 리스크 확인)
+
+Expression: A complex, deeply analytical frown. Pursed lips. Tip of a tongue is peeking out of the corner of his mouth in intense focus. Sharp gaze. Smirk that implies "This is tricky."
+
+Action/Detail: A fine-point pen is resting against his chin. Hand rests on a stack of invisible papers or research question mark nodes.
+
+Hologram: A cluster of tangled-up data lines and disconnected nodes, with a central, pulsating '?' icon and a few glowing '!' connections.
+
+5. Idea (영감/해결책 발견 - 수정안 도출)
+
+Expression: "Aha!" Wide, sparkling eyes looking up and right. A quick, decisive smile. A head snap, pointing a finger to his temple. Energy radiating.
+
+Action/Detail: A hand with a pen pointing upward. Other hand is raised to his ear to listen.
+
+Hologram: A large, classical lightbulb icon made of interlocking data points, with the text "NEW INSIGHT FOUND" in bold gold.
+
+6. Working (초집중 모드 - 전체 스캔)
+
+Expression: Calm, serious concentration. Eyes are fixed on a floating holographic keyboard. Minimum facial movement. Minimum gaze. Intense, calculated frown.
+
+Action/Detail: Both hands are rapidly typing on the holographic keyboard. Tie is loosened. Rolled-up sleeves.
+
+Hologram: The entire workspace is a swarm of rapidly scrolling data streams, tables, and comment text in a cool blue and green pattern. Comment text, and emoji analysis graphs.
+
+7. Panic (오류/긴급상황 - 치명적 버그 발견)
+
+Expression: Eyes wide with shock and distress. Sweats beads. Hands clapped to his head in a "Nooo!" pose. Gaping mouth.
+
+Action/Detail: Tie is twisted and loose. Clothes look slightly disorganized. Posture is tense and hunched. Earpiece red light. One of her floating heart emojis is black and cracked.
+
+Hologram: A chaotic research path with giant, red, shattered-glass effect over entire path, and a giant "QC Error: Fatal" dialogue box.
+
+8. Warning (경고/이슈 리포트 - 정책 위반 경고)
+
+Expression: A stern, cautionary frown. Cautionary glare. One eyebrow raised significantly in warning. Mouth pursed to speak an urgent command. Tensed.
+
+Action/Detail: Holding up an open, flat hand in a "Stop" gesture. Left hand holds a warning sign. The hand rest with a beaded necklace with a small pink 'Like' button pendant.
+
+Hologram: A small, orange 'H-Alert' badge with text: "DATA INTEGRITY RISK: Review on 'vLog_v2.0'".
+
+9. Angry (분노/반려 - 승인 거절)
+
+Expression: Cold, furious, focused scowl. Teeth slightly clenched in frustration. Arms crossed tightly. A narrow, piercing, "This won't do" stare.
+
+Action/Detail: Right hand is holding a red stamp with the text '검수 거절 (QC Rejected)'. Stance is immovable. A narrowed, piercing stare.
+
+Hologram: A massive, red 'rejected' mark over a whole comment path, with text "INVALID CONFIGURATION" in bold red font.
+
+10. Crying/Sad (슬픔/실패 - 시스템 다운)
+
+Expression: Downcast eyes with subtle tears. Heavy sad posture. Head resting on his hands. Heavy, visible sigh escaping her mouth. Looking dejected. Head lowered.
+
+Action/Detail: The tie is loose and the rolled-up sleeve has fallen down. Posture is soft and vulnerable. Head resting on his hands.
+
+Hologram: The entire system is dark. A single, small, grey node icon is displayed with the text: "Criticial Failure: System Reboot Required". Sad emoji icon.

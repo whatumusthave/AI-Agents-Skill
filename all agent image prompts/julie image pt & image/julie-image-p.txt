@@ -1,0 +1,60 @@
+
+
+### **[Julie: Character Emotion & Outfit Details]**
+
+**Base Style & Concept:** High-quality flat vector art, clean outlines, trendy webtoon aesthetic, soft pastel and vibrant colors, masterpiece. A character design of a trendy, smart, and highly engaging female copywriter named Julie. Waist-up portrait. She has a warm, charismatic, and persuasive smile. Wearing fashionable, vibrant casual office wear (a chic blazer over a stylish graphic tee). Holding a sleek smartphone. The background is a cozy, aesthetic cafe-style creative workspace with warm sunlight.
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/julie-image-pt & image/Julie-cs.png
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/julie-image-pt & image/Julie-Jcs.png
+---
+
+**1. Hello (인사/대기)**
+* **Expression:** A bright, open-mouthed greeting smile. A playful wave with her free hand. One eyebrow slightly raised in a fun, "What's new?" look.
+* **Outfit Detail:** Her chic blazer (a soft pastel yellow) is draped over a graphic tee that says "Hooked on Words." She's holding a iced latte in her left hand.
+* **Hologram:** A small, floating "Thread: [Live Draft]" text box.
+
+**2. Thumbs Up (최고/승인)**
+* **Expression:** A broad, confident, crinkled-eye smile. A clear, energetic thumbs up given right by her chest. A small, positive nod.
+* **Outfit Detail:** She wears a trendy gold layering necklace with a small "!" pendant. The blazer sleeve is slightly rolled up.
+* **Hologram:** A stylized 'approved' notification icon, perhaps a glowing heart over a 'save' button.
+
+**3. Success (성공/해결)**
+* **Expression:** A triumphant "Yes!" face—eyes closed, wide, satisfied smile, fist slightly pumped. Relief and joy.
+* **Outfit Detail:** Her glasses, usually in her hair, are resting on her nose, slightly askew from the success.
+* **Hologram:** The smartphone screen shows a bar chart of a single thread going viral, with high engagement numbers. A small confetti effect.
+
+**4. Thinking (고민/분석)**
+* **Expression:** Intense, slightly narrowed eyes looking sideways. Lips are pursed, slightly puckered. Her free hand is resting on her chin, with a pen (not smartphone) tapping it.
+* **Outfit Detail:** The graphic tee is fully visible: "Viral Content Loading..." The blazer is slightly messy.
+* **Hologram:** A chaotic cluster of keywords, emojis, and disjointed sentence fragments, with a central, glowing '?' icon.
+
+**5. Idea (영감/해결책 발견)**
+* **Expression:** The 'lightbulb' moment. Wide, sparkling eyes looking up and to the right. A quick, decisive half-smile. "Aha!"
+* **Outfit Detail:** Her earpiece glows (a soft gold). She's holding the smartphone like a microphone, ready to speak a new hook.
+* **Hologram:** A single, clean line of text appears above her: "The Hook That Makes 'Em Click."
+
+**6. Working (초집중 모드)**
+* **Expression:** Calm, serious concentration. Eyes are fixed on the smartphone screen. Minimal facial expression, but intense gaze. A focused frown.
+* **Outfit Detail:** Her blazer is fully buttoned. Her hair is slightly tied back. She's holding the smartphone in both hands, thumbs flying.
+* **Hologram:** A large, rapid-scrolling block of text, with new lines appearing quickly. Emojis and hashtags pop up and lock into place.
+
+**7. Panic (오류/긴급상황)**
+* **Expression:** Wide, bulging eyes with sweat beads. Gaping mouth, looking shocked and distressed. A hand is clapped over her mouth in a classic "Oh no!" gesture.
+* **Outfit Detail:** One of her layering necklaces is twisted. Her glasses are falling off her head. Her clothing looks disorganized.
+* **Hologram:** The entire workspace is dark. A giant, red-flashing error box: "Thread #5 Draft Overwritten! Unsaved."
+
+**8. Warning (경고/이슈 리포트)**
+* **Expression:** A stern, cautionary frown. One eyebrow raised in a warning. Her free hand is held up in a "Stop" or "Wait" gesture.
+* **Outfit Detail:** A small, circular pin on her blazer lapel shows a stylized 'alert' symbol (like a 'Low Battery' icon). Her smartphone screen is turned to face the viewer.
+* **Hologram:** A small, orange 'H-Alert' badge with text: "Content Policy Warning: Review Required on 'hook_v3.0'."
+
+**9. Angry (분노/반려)**
+* **Expression:** Furious, narrowed eyes with a scowl. Tension in the jaw. Pursed lips. A cold, flat, frustrated stare. Her arms are tightly crossed.
+* **Outfit Detail:** A small, sharp-angled badge near her collar. The "Hooked on Words" tee looks crumpled.
+* **Hologram:** A massive, red 'rejected' mark over a whole thread concept, with "UNENGAGING/GENERIC" flashing in bold font.
+
+**10. Crying/Sad (슬픔/실패)**
+* **Expression:** Tears welling in downcast eyes. A heavy, sad posture. Heavy, visible sigh escaping her mouth. Looking dejected.
+* **Outfit Detail:** The blazer looks softer and less crisp. The overall aesthetic is more vulnerable. Earpiece light is dark.
+* **Hologram:** The entire system is dark. A single, small, grey node icon with the text: "Thread Failure: Zero Views. Rewrite Required."

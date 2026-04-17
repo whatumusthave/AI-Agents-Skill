@@ -1,0 +1,32 @@
+🏗️ Key (Antigravity - 수석 건축가)
+
+A character design turnaround sheet of a mysterious, genius master developer named Key. Showing three full-body views: front view, side view, and back view in one image. He is wearing an oversized dark hoodie with the hood slightly up, giving a cool hacker vibe. Style: High-quality flat vector art, clean outlines, trendy webtoon aesthetic, dark mode contrast, character design sheet, plain white background, masterpiece
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/key image pt & image/Key-cs.png
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/key image pt & image/Key-emo.png
+
+[표정 지시어]
+
+hello: professional nod, direct gaze, minimalist 'Hi!' hologram.
+
+thumbsup: subtle satisfied smile, 'QC Approved' green checkmark.
+
+success: confident triumph, eyes closed, "KPI MET: 100%" gold dashboard.
+
+thinking: analytical frown, pursed lips, tangled data lines hologram.
+
+idea: "Aha!" moment, finger to temple, glowing golden lightbulb icon.
+
+working: intense focus, typing on holographic keyboard, scrolling blue data.
+
+panic: wide eyes, sweat beads, "Fatal Error" red shattered hologram.
+
+warning: stern cautionary glare, holding orange 'H-Alert' badge.
+
+angry: cold furious scowl, arms crossed, red 'REJECTED' stamp.
+
+crying/sad: downcast eyes, dejected posture, "System Reboot Required" icon.
+
+
+Style: High-quality flat vector art, clean outlines, trendy webtoon aesthetic, highly detailed face, sharp contrast, masterpiece.

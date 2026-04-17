@@ -1,0 +1,29 @@
+🛡️ Armani (결제 퍼널 및 기술 책임자) 
+기본 뼈대 프롬프트 (Base Prompt): 
+A character design of a cold, precise, and highly skilled male technical director named Armani, cybersecurity and Stripe payment expert. Waist-up portrait. He has a sharp, calculating, and flawless gaze. Wearing a crisp, dark, minimalist turtleneck suit. The background is a dark, high-end server room with glowing green and blue code streams on sleek monitors. [표정 지시어] Style: High-quality flat vector art, clean outlines, trendy webtoon aesthetic, highly detailed face, sharp contrast, masterpiece. A character design turnaround sheet of a cold, precise male technical director named Armani, cybersecurity and Stripe payment expert. Showing three full-body views: front view, side view, and back view in one image. He has a sharp, calculating, and flawless gaze. Wearing a crisp, dark, minimalist turtleneck suit. The background is a plain white background.
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/armani image pt & image/Armani-cs.png
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/armani image pt & image/Armani-emo.png
+
+🎭 Armani의 10가지 표정 지시어 (Expression Modifiers)
+
+hello: professional greeting, checking server status on glass tablet.
+
+thumbsup: server stabilized, green 'Active' node light.
+
+success: deployment complete, subtle proud smile, rising green graph.
+
+thinking: log analysis, deep focused frown, complex network nodes.
+
+idea: API architecture insight, snapping fingers, glowing golden circuit.
+
+working: hyper-focus coding, terminal streams in eyes, red earpiece light.
+
+panic: hacking detected, hands to head, red flashing 'Security Breach'.
+
+warning: policy violation detected, holding digital 'Stop' sign.
+
+angry: critical bug found, clenched teeth, red 'Access Denied' stamp.
+
+crying/sad: data loss/down, head in hands, dark gray 'Critical Failure' icon.

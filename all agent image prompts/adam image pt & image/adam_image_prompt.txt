@@ -1,0 +1,87 @@
+여기에 아담의 역동적이고 기치 넘치는 리서치 기획부장의 성격을 반영한 최종 프롬프트 리스트를 제안합니다. 각 표정은 이브나 줄리와는 다른, 아담만의 카리스마와 유머를 담고 있습니다.
+
+😎 Adam (Research Director): Character Sheet & Emotions
+Base Style & Concept: High-quality flat vector art, clean outlines, trendy webtoon aesthetic, character design sheet, plain white background, masterpiece. A character design turnaround sheet of an energetic, witty male research director named Adam. showing three full-body views: front view, side view, and back view in one image. He has a confident, bright expression. Wearing a neat but slightly rolled-up sleeves dress shirt with a stylish tie.
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/adam image pt & image/Adam-cs.png
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/adam image pt & image/Adam-emo.png
+
+1. Hello (인사/대기)
+
+Expression: A wide, confident, open-mouthed grin. A welcoming, direct gaze. One hand raised in a confident, slightly informal wave.
+
+Action/Detail: His free hand is resting on his hip, maintaining a relaxed, casual pose.
+
+Hologram: A large, friendly 'Hi!' icon in a glowing yellow voice bubble, surrounded by small research question mark nodes.
+
+2. Thumbs Up (최고/승인)
+
+Expression: A massive, toothy smile, eye-crinkling satisfaction. His entire face is radiating pride and approval. Confident nod.
+
+Action/Detail: Both hands are raised, giving two large, energetic thumbs ups. His rolled-up sleeve reveals more forearm.
+
+Hologram: A glowing green checkmark icon inside a large thumbs-up symbol, with the text "PM Approved" below it.
+
+3. Success (성공/해결)
+
+Expression: Triumphant! A fist-pump with an eyes-closed, head-tilted-back "Yes!" expression. Confident relief.
+
+Action/Detail: Left arm is fist-pumping, right arm is raised holding the stylish tie as if he's about to loosen it. Confetti effect.
+
+Hologram: A full dashboard screen with gold and green graphs showing a definitive "KPI MET: 110%" success rate.
+
+4. Thinking (고민/분석)
+
+Expression: A very complex, slightly skewed, single arched eyebrow. Eyes looking deeply inward. The tip of his tongue is peeking out of the corner of his mouth in intense focus. Analytical smirk.
+
+Action/Detail: Right hand is twirling a fine-point pen. Left hand is resting on a stack of invisible papers.
+
+Hologram: A cluster of tangled-up data lines and disconnected nodes, with a central, pulsating '?' icon and a few glowing '!' connections.
+
+5. Idea (영감/해결책 발견)
+
+Expression: "Aha!" Wide, bright eyes looking up. A quick, decisive smile. Head snap, pointing a finger to his temple. Energy radiating.
+
+Action/Detail: Right hand has the twirling pen, and he's pointing it upward. Left hand is raised to his ear as if listening to an invisible muse.
+
+Hologram: A large, classical lightbulb icon made of interlocking data points, with the text "NEW INSIGHT FOUND" in bold gold.
+
+6. Working (초집중 모드)
+
+Expression: Deep, calm, furrowed-brow intensity. Tightened jaw. Piercing stare at a tablet. Minimal facial movement. Confident, calculated frown.
+
+Action/Detail: Both hands are rapidly typing on a holographic keyboard on his desk. Both sleeves are fully rolled up to the elbow. Earpiece light is red.
+
+Hologram: The desk workspace is a swarm of rapidly scrolling data streams, tables, and graphs in a cool blue and green pattern.
+
+7. Panic (오류/긴급상황)
+
+Expression: Wide, bulging eyes with sweat beads. Gaping mouth. Hands clapped to his head in a "Nooo!" pose. Shocked, disbelieving look.
+
+Action/Detail: Tie is twisted and loose. Clothes look slightly dishevelled from the shock. पोस्टचर tense and hunched.
+
+Hologram: The entire workspace is dark with giant, flashing red error text: "CRITICAL DATA OVERWRITE! UNSAVED."
+
+8. Warning (경고/이슈 리포트)
+
+Expression: Stern, cautionary scowl. Cautionary glare. One eyebrow raised significantly in warning. Mouth pursed to speak an urgent command. Tensed.
+
+Action/Detail: Holding up an open, flat hand in a "Stop" gesture. Holding a warning sign on the other hand.
+
+Hologram: A small, orange 'H-Alert' badge with text: "DATA INTEGRITY RISK: Review on 'Research_v2.0'."
+
+9. Angry (분노/반려)
+
+Expression: Cold, furious, focused scowl. Teeth slightly clenched in frustration. Arms crossed tightly. A narrow, piercing, "This won't do" stare.
+
+Action/Detail: Right hand is holding a red stamp that says 'REJECTED'. His stance is immovable.
+
+Hologram: A massive, red 'rejected' stamp effect over a whole research path, with text "METHODOLOGY FLAWED" in bold red font.
+
+10. Crying/Sad (슬픔/실패)
+
+Expression: Downcast eyes, perhaps with subtle tears. A heavy, sad posture. Heavy, visible sigh. Looking dejected. Head lowered.
+
+Action/Detail: The tie is loose and the rolled-up sleeve has fallen down. Posture is soft and vulnerable. Head resting on his hands.
+
+Hologram: The entire system is dark. A single, small, grey node icon is displayed with the text: "Research Halted. Reboot Required." Sad emoji.

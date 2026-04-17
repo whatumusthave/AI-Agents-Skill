@@ -1,0 +1,92 @@
+[Eve: Character Emotion & Outfit Details]
+Base Style & Concept: High-quality flat vector art, clean outlines, trendy webtoon aesthetic, highly detailed face, sharp contrast, masterpiece. A character design of a brilliant, calm, and precise female project manager, n8n automation expert. Waist-up portrait. She has a sharp, analytical, and highly organized gaze. Wearing sleek, modern smart-casual tech-wear (silver and navy tones) with a futuristic glowing transparent earpiece. The background is a high-tech command center with multiple holographic data dashboards, n8n workflow nodes, and soft blue lighting.
+
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/eve image pt & image/Eve-cs.png
+/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/eve image pt & image/Eve-emo.png
+
+1. Hello (인사/대기)
+
+Expression: A gentle, confident, yet professional half-smile. A welcoming gaze, relaxed brows.
+
+Outfit Detail: Standard tech-wear jacket is zipped, presenting a clean profile. Left hand rests calmly on her chin.
+
+Hologram: A small, rotating n8n logo 'loading' icon.
+
+2. Thumbs Up (최고/승인)
+
+Expression: A wide, genuine smile showing clean teeth. Crinkled, satisfied eyes. A proud and encouraging nod.
+
+Outfit Detail: Left hand giving a clear 'thumbs up'. Her other hand is near her collar, perhaps adjusting a pin that says "PM Approved."
+
+Hologram: A glowing green checkmark node over a successfully completed workflow section.
+
+3. Success (성공/해결)
+
+Expression: Relief and triumph. A bright, eyes-closed smile (or eyes slightly narrowed in relaxed confidence). A soft sigh of relief escaping her lips.
+
+Outfit Detail: A silver zipper on her sleeve, usually hidden, is now slightly visible, shaped like a gear. Her hair, usually tidy, has a stray strand.
+
+Hologram: A full dashboard lighting up gold and green with "All Workflows Active: 100%" text.
+
+4. Thinking (고민/분석)
+
+Expression: A highly furrowed brow. Lips pursed, slightly skewed. One eye slightly narrowed in intense focus. A deep, analytical gaze.
+
+Outfit Detail: Her right hand holds an invisible, stylus-like stylus to her temple. The sleeve of her jacket has a small, segmented silver data-track print.
+
+Hologram: The complex node network is expanded, with a few '?' icons and data lines flashing purple.
+
+5. Idea (영감/해결책 발견)
+
+Expression: An 'Aha!' moment. Wide-open, bright eyes. Eyebrows lifted high. A quick, decisive smile.
+
+Outfit Detail: The earpiece glows significantly brighter, pulsing like a heartbeat. The pattern on her smart-tech shirt subtly shifts to a network-path design.
+
+Hologram: A single, isolated node (the key node) is intensely highlighted in glowing cyan, with an optimization algorithm running around it.
+
+6. Working (초집중 모드)
+
+Expression: Extreme, calm intensity. Tightened jaw. Piercing stare at a holographic projection. Minimal facial movement.
+
+Outfit Detail: Her smart-sleeves are slightly rolled up, revealing faint, glowing silver neural patterns on her forearms. A small data pen is tucked into a dedicated collar loop.
+
+Hologram: The entire workspace is a swarm of small, rapid-moving data streams, with multiple nodes flashing rapidly and green lines connecting them.
+
+7. Panic (오류/긴급상황)
+
+Expression: Eyes wide with shock and urgency. Gaping mouth. Sweat beads forming on her brow. Flushed, distressed cheeks.
+
+Outfit Detail: The earpiece is blinking rapidly red. Her neat tech-wear collar is slightly undone or disheveled. Her posture is tense and hunched.
+
+Hologram: The screens are a chaotic mess of overlapping nodes, red-flashing data packets, and a giant "SYSTEM ERROR" dialogue box.
+
+8. Warning (경고/이슈 리포트)
+
+Expression: A concerned frown. Stern gaze. One eyebrow arched high in warning. Mouth slightly open to speak an urgent command.
+
+Outfit Detail: Her hand is raised in a 'stop' gesture. The fabric on her shoulder has a small, woven "H-Alert" patch (H=Hazard/Warning).
+
+Hologram: A specific section of the workflow has turned a harsh orange. A pop-up reads: "Performance Degraded: Node 'Webhook' Failing."
+
+9. Angry (분노/반려)
+
+Expression: Tense brows and a scowl. Tight-pursed, narrowed lips. A cold, furious stare. Flushed skin from frustration.
+
+Outfit Detail: A small, metallic badge near her collar (e.g., n8n logo) is slightly tilted. Her arms are crossed tightly, tensing the silver sleeves.
+
+Hologram: A giant, red, shattered-glass effect over a specific workflow path, with "INVALID CONFIGURATION" flashing in bold, jagged font.
+
+10. Crying/Sad (슬픔/실패)
+
+Expression: Downcast eyes, perhaps with subtle tears on the cheek. Pursed lips quivering slightly. A drooped posture and heavy head.
+
+Outfit Detail: Her tech-wear is less crisp, looking softer and more vulnerable. One hand holds the other in her lap. Earpiece light is faint or dark.
+
+Hologram: The entire system is dark. A single, small, grey node icon is displayed with the text: "Criticial Failure: Reboot Required." A single, sad emoji icon is visible in a sidebar.
+
+How to Use This:
+You can take any of the text blocks (e.g., "[thumbsup (최고/승인): Expression: ... Hologram: ...]") and append it to the end of your original Base Prompt as a specific instruction for that image.
+
+For example, to generate the 'Thinking' image:
+
+Prompt: A character design of a brilliant, calm, and precise female project manager named Eve, n8n automation expert. Waist-up portrait. She has a sharp, analytical, and highly organized gaze. Wearing sleek, modern smart-casual tech-wear (silver and navy tones) with a futuristic glowing transparent earpiece. The background is a high-tech command center with multiple holographic data dashboards, n8n workflow nodes, and soft blue lighting. High-quality flat vector art, clean outlines, trendy webtoon aesthetic, highly detailed face, sharp contrast, masterpiece. (Expression: A highly furrowed brow. Lips pursed, slightly skewed. One eye slightly narrowed in intense focus. A deep, analytical gaze. Outfit Detail: Her right hand holds an invisible, stylus-like stylus to her temple. The sleeve of her jacket has a small, segmented silver data-track print. Hologram: The complex node network is expanded, with a few '?' icons and data lines flashing purple.)
