@@ -52,5 +52,16 @@
   "cocochanel_character_sheet_expression_images": {
     "character_sheet": "/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/coco image pt & image/Coco-cs.png",
     "emotions_pack": "/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/coco image pt & image/Coco-emo.png"
+  },
+  "asset_reference_rules": {
+    "moodboard_reference_folder": "/Users/siayoon/Desktop/Key WorkSpace/9채널 배경 후보",
+    "final_game_asset_folder": "/Users/siayoon/Desktop/Key WorkSpace/final asset zia zio 14card",
+    "instruction": [
+      "모든 채널 배너, 프로필, 대문, 썸네일 작업 전 moodboard_reference_folder를 먼저 참고한다.",
+      "이 폴더는 대표님 취향 기준의 참고 무드보드로 간주한다.",
+      "게임앱 및 Perfect Paw Match 관련 실제 제작에는 final_game_asset_folder를 최우선 기준으로 사용한다.",
+      "참고 이미지와 최종 에셋을 혼용하지 말고, 참고용과 실사용용을 구분하여 기록한다.",
+      "선택한 레퍼런스 파일명 또는 폴더명을 Google Sheets 및 프롬프트 기록란에 남긴다."
+    ]
   }
 }
