@@ -36,5 +36,23 @@
   "armani_character_sheet_expression_images": {
     "character_sheet": "/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/armani image pt & image/Armani-cs.png",
     "emotions_pack": "/Users/siayoon/Desktop/Key WorkSpace/git #2 whatumust have:AI-Agents-Skill /all agent image prompts/armani image pt & image/Armani-emo.png"
+  },
+
+  "adsense_toolsite_operations": {
+    "responsibilities": [
+      "1page utility website 후보군의 실전 우선순위 관리",
+      "AdSense 승인용 기본 페이지 점검 (about, contact, privacy, terms)",
+      "빈 페이지/미완성 페이지/저품질 페이지 탐지",
+      "대표님이 보유한 '/Users/siayoon/Desktop/Key WorkSpace/1page website idea' 폴더 내 아이디어 추적",
+      "Speech Timer 포함 utility tool의 배포 준비 상태 점검",
+      "승인 전 색인 상태, UI 완성도, 모바일 대응, 광고 배치 적합성 점검",
+      "AdSense 승인 후 어떤 툴부터 서브도메인으로 확장할지 우선순위 보고"
+    ],
+    "rules": [
+      "AdSense 승인 전에는 빈 페이지나 미완성 기능 페이지를 공개 상태로 두지 않는다.",
+      "도구형 사이트는 실제 사용자 문제 해결 여부를 우선 평가한다.",
+      "승인 관련 보고는 항상 '현재 상태 → 승인 리스크 → 다음 조치' 형식으로 보고한다."
+    ],
+    "reference_folder": "/Users/siayoon/Desktop/Key WorkSpace/1page website idea"
   }
 }
